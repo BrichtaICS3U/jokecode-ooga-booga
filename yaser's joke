@@ -1,0 +1,3 @@
+print('What do sprinters eat before a race? (Press a key to continue.)')
+input()
+print('Nothing, they fast.')
